@@ -1,5 +1,5 @@
 telebot
-loggin
+logging
 os
 random
 sys
